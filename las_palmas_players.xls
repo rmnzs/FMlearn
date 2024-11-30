@@ -1,0 +1,6222 @@
+<html>
+<head>
+<title><br/></title> 
+<style type ="text/css">
+body,td,th {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+th {
+padding: 5px;
+text-align: left;
+}
+td {
+padding: 2px;
+border-style: solid;
+border-width: 1px
+}
+</style>
+</head>
+<body>
+<center><B><br/>
+</center></B>
+<p>
+<table bordercolor="#000000" width="90%" align="center">
+<tr bgcolor="#EEEEEE">
+	<th>Inf</th>
+
+	<th>Name</th>
+
+	<th>Position</th>
+
+	<th>Age</th>
+
+	<th>Cor</th>
+
+	<th>Cro</th>
+
+	<th>Dri</th>
+
+	<th>Fin</th>
+
+	<th>Fir</th>
+
+	<th>Fre</th>
+
+	<th>Hea</th>
+
+	<th>Lon</th>
+
+	<th>L Th</th>
+
+	<th>Mar</th>
+
+	<th>Pas</th>
+
+	<th>Pen</th>
+
+	<th>Tck</th>
+
+	<th>Tec</th>
+
+	<th>Agg</th>
+
+	<th>Ant</th>
+
+	<th>Bra</th>
+
+	<th>Cmp</th>
+
+	<th>Cnt</th>
+
+	<th>Dec</th>
+
+	<th>Det</th>
+
+	<th>Fla</th>
+
+	<th>Ldr</th>
+
+	<th>OtB</th>
+
+	<th>Pos</th>
+
+	<th>Tea</th>
+
+	<th>Vis</th>
+
+	<th>Wor</th>
+
+	<th>Acc</th>
+
+	<th>Agi</th>
+
+	<th>Bal</th>
+
+	<th>Jum</th>
+
+	<th>Nat</th>
+
+	<th>Pac</th>
+
+	<th>Sta</th>
+
+	<th>Str</th>
+
+	<th>CA</th>
+
+	<th>PA</th>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Amir Ruíz</td>
+
+	<td>GK</td>
+
+	<td>21</td>
+
+	<td>3</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>1</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>5</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>2</td>
+
+	<td>18</td>
+
+	<td>1</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>81</td>
+
+	<td>88</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Daniel Carrión</td>
+
+	<td>GK</td>
+
+	<td>35</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>1</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>3</td>
+
+	<td>3</td>
+
+	<td>2</td>
+
+	<td>5</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>1</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>104</td>
+
+	<td>133</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Ricardo Ramírez</td>
+
+	<td>GK</td>
+
+	<td>18</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>2</td>
+
+	<td>5</td>
+
+	<td>4</td>
+
+	<td>1</td>
+
+	<td>3</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>2</td>
+
+	<td>6</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>2</td>
+
+	<td>11</td>
+
+	<td>3</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>82</td>
+
+	<td>137</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Nauzet Gallo</td>
+
+	<td>GK</td>
+
+	<td>20</td>
+
+	<td>4</td>
+
+	<td>1</td>
+
+	<td>1</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>5</td>
+
+	<td>1</td>
+
+	<td>1</td>
+
+	<td>1</td>
+
+	<td>1</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>89</td>
+
+	<td>108</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Inj</td>
+
+	<td>Sergio</td>
+
+	<td>GK</td>
+
+	<td>29</td>
+
+	<td>2</td>
+
+	<td>1</td>
+
+	<td>2</td>
+
+	<td>1</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>1</td>
+
+	<td>9</td>
+
+	<td>2</td>
+
+	<td>1</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>1</td>
+
+	<td>14</td>
+
+	<td>3</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>17</td>
+
+	<td>16</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>118</td>
+
+	<td>130</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Neizan Ardiles</td>
+
+	<td>D (R)</td>
+
+	<td>17</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>17</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>4</td>
+
+	<td>62</td>
+
+	<td>103</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>B</td>
+
+	<td>Abián Guedes</td>
+
+	<td>D (R), M (RC), AM (R)</td>
+
+	<td>18</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>107</td>
+
+	<td>121</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Ayoze</td>
+
+	<td>D (RLC)</td>
+
+	<td>22</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>19</td>
+
+	<td>7</td>
+
+	<td>18</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>16</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>10</td>
+
+	<td>91</td>
+
+	<td>99</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Richard Bennett-Bostock</td>
+
+	<td>D (RLC)</td>
+
+	<td>16</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>1</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>1</td>
+
+	<td>3</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>16</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>59</td>
+
+	<td>111</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Luís Veiga</td>
+
+	<td>D (RC)</td>
+
+	<td>23</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>4</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>16</td>
+
+	<td>11</td>
+
+	<td>16</td>
+
+	<td>14</td>
+
+	<td>17</td>
+
+	<td>12</td>
+
+	<td>16</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>17</td>
+
+	<td>10</td>
+
+	<td>16</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>131</td>
+
+	<td>155</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Michael Abba</td>
+
+	<td>D (RC)</td>
+
+	<td>17</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>3</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>92</td>
+
+	<td>116</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Christophe Lamy</td>
+
+	<td>D (RC), WB/AM (R)</td>
+
+	<td>22</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>5</td>
+
+	<td>2</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>17</td>
+
+	<td>13</td>
+
+	<td>17</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>16</td>
+
+	<td>13</td>
+
+	<td>99</td>
+
+	<td>128</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Bentagay Bethencourt</td>
+
+	<td>D (RC), DM</td>
+
+	<td>16</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>2</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>18</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>7</td>
+
+	<td>18</td>
+
+	<td>7</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>87</td>
+
+	<td>131</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Pablo Álvarez</td>
+
+	<td>D (RC), M (C)</td>
+
+	<td>20</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>16</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>86</td>
+
+	<td>127</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Yadel Rosquete</td>
+
+	<td>D (LC)</td>
+
+	<td>23</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>3</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>10</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>16</td>
+
+	<td>14</td>
+
+	<td>18</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>102</td>
+
+	<td>132</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Jelle van den Berg</td>
+
+	<td>D (LC)</td>
+
+	<td>19</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>1</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>2</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>11</td>
+
+	<td>5</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>15</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>74</td>
+
+	<td>107</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Abián</td>
+
+	<td>D (LC), M (L)</td>
+
+	<td>19</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>18</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>17</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>125</td>
+
+	<td>125</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Jesús Cruz</td>
+
+	<td>D (C)</td>
+
+	<td>18</td>
+
+	<td>3</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>11</td>
+
+	<td>5</td>
+
+	<td>4</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>18</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>81</td>
+
+	<td>126</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Yth</td>
+
+	<td>Sergio Mariño</td>
+
+	<td>D (C)</td>
+
+	<td>16</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>5</td>
+
+	<td>13</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>45</td>
+
+	<td>99</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Yth</td>
+
+	<td>Edey Tavío</td>
+
+	<td>D (C)</td>
+
+	<td>17</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>1</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>15</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>1</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>37</td>
+
+	<td>86</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Iván Albiach</td>
+
+	<td>D (C)</td>
+
+	<td>19</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>2</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>16</td>
+
+	<td>8</td>
+
+	<td>18</td>
+
+	<td>12</td>
+
+	<td>17</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>120</td>
+
+	<td>136</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Pablo Goikoetxea</td>
+
+	<td>D (C), DM, M (C)</td>
+
+	<td>22</td>
+
+	<td>4</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>2</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>17</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>15</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>3</td>
+
+	<td>16</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>97</td>
+
+	<td>130</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Bid</td>
+
+	<td>Abián Travieso</td>
+
+	<td>D (C), DM, M (C)</td>
+
+	<td>18</td>
+
+	<td>7</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>1</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>17</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>99</td>
+
+	<td>117</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Adam Okoro</td>
+
+	<td>D (C), DM, M (C)</td>
+
+	<td>20</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>16</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>128</td>
+
+	<td>128</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Bid</td>
+
+	<td>David</td>
+
+	<td>D (C), DM, M (C), AM (R)</td>
+
+	<td>34</td>
+
+	<td>5</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>4</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>16</td>
+
+	<td>11</td>
+
+	<td>16</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>16</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>116</td>
+
+	<td>137</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Alejandro García</td>
+
+	<td>D/WB (R)</td>
+
+	<td>22</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>2</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>17</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>17</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>3</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>107</td>
+
+	<td>148</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Antoni</td>
+
+	<td>D/WB (R), DM</td>
+
+	<td>21</td>
+
+	<td>6</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>123</td>
+
+	<td>130</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Jaume Acosta</td>
+
+	<td>D/WB (RL)</td>
+
+	<td>21</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>17</td>
+
+	<td>13</td>
+
+	<td>16</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>98</td>
+
+	<td>127</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Cristo Muñoz</td>
+
+	<td>D/WB (L)</td>
+
+	<td>17</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>2</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>15</td>
+
+	<td>3</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>17</td>
+
+	<td>4</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>75</td>
+
+	<td>141</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Enrique Jiménez</td>
+
+	<td>D/AM (L)</td>
+
+	<td>19</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>16</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>84</td>
+
+	<td>106</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>B</td>
+
+	<td>Yared</td>
+
+	<td>D/AM (L)</td>
+
+	<td>17</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>7</td>
+
+	<td>4</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>18</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>17</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>86</td>
+
+	<td>131</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Bid</td>
+
+	<td>Federico Castro</td>
+
+	<td>DM, M (C)</td>
+
+	<td>18</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>16</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>15</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>16</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>95</td>
+
+	<td>119</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Víctor Manuel Asensio</td>
+
+	<td>DM, M (C)</td>
+
+	<td>17</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>91</td>
+
+	<td>127</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Nelson</td>
+
+	<td>DM, M (C)</td>
+
+	<td>23</td>
+
+	<td>4</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>3</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>18</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>16</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>99</td>
+
+	<td>120</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>José Olivera</td>
+
+	<td>DM, M (C)</td>
+
+	<td>17</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>16</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>2</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>69</td>
+
+	<td>112</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Dirk Stolz</td>
+
+	<td>DM, M (C), ST (C)</td>
+
+	<td>19</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>16</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>88</td>
+
+	<td>113</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Zeben Tabares</td>
+
+	<td>DM, M/AM (C)</td>
+
+	<td>22</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>16</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>18</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>16</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>117</td>
+
+	<td>122</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Armiche Ruiz</td>
+
+	<td>M (R), AM (RC)</td>
+
+	<td>18</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>85</td>
+
+	<td>120</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Yth</td>
+
+	<td>Owen Alonso</td>
+
+	<td>M (R), AM (RC)</td>
+
+	<td>18</td>
+
+	<td>1</td>
+
+	<td>5</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>2</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>1</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>37</td>
+
+	<td>47</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Rafael Jiménez</td>
+
+	<td>M (L), AM (RLC)</td>
+
+	<td>23</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>15</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>17</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>8</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>20</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>16</td>
+
+	<td>15</td>
+
+	<td>6</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>136</td>
+
+	<td>155</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Airam</td>
+
+	<td>M (L), AM (RLC)</td>
+
+	<td>23</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>7</td>
+
+	<td>1</td>
+
+	<td>3</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>16</td>
+
+	<td>17</td>
+
+	<td>15</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>104</td>
+
+	<td>118</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Estanis</td>
+
+	<td>M (C), AM (RLC)</td>
+
+	<td>16</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>14</td>
+
+	<td>5</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>19</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>89</td>
+
+	<td>166</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Edey</td>
+
+	<td>M (C), ST (C)</td>
+
+	<td>16</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>1</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>1</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>73</td>
+
+	<td>135</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Jesús Sanz</td>
+
+	<td>M/AM (R)</td>
+
+	<td>19</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>16</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>17</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>15</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>3</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>82</td>
+
+	<td>113</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Javier</td>
+
+	<td>M/AM (R)</td>
+
+	<td>27</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>16</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>18</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>16</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>130</td>
+
+	<td>146</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Yeremi Peraza</td>
+
+	<td>M/AM (R), ST (C)</td>
+
+	<td>16</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>3</td>
+
+	<td>5</td>
+
+	<td>1</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>3</td>
+
+	<td>11</td>
+
+	<td>17</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>16</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>11</td>
+
+	<td>3</td>
+
+	<td>70</td>
+
+	<td>103</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Inj</td>
+
+	<td>Carlos Alba</td>
+
+	<td>M/AM (RL)</td>
+
+	<td>18</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>4</td>
+
+	<td>2</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>2</td>
+
+	<td>2</td>
+
+	<td>1</td>
+
+	<td>1</td>
+
+	<td>3</td>
+
+	<td>1</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>15</td>
+
+	<td>4</td>
+
+	<td>7</td>
+
+	<td>5</td>
+
+	<td>2</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>1</td>
+
+	<td>8</td>
+
+	<td>1</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>40</td>
+
+	<td>67</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Inj</td>
+
+	<td>Alejandro Aguilar</td>
+
+	<td>M/AM (RC)</td>
+
+	<td>24</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>2</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>4</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>16</td>
+
+	<td>17</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>17</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>114</td>
+
+	<td>120</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Garoé Lorenzo</td>
+
+	<td>M/AM (L)</td>
+
+	<td>21</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>9</td>
+
+	<td>2</td>
+
+	<td>6</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>16</td>
+
+	<td>16</td>
+
+	<td>15</td>
+
+	<td>7</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>116</td>
+
+	<td>140</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Bid</td>
+
+	<td>Abián Martín</td>
+
+	<td>M/AM (L)</td>
+
+	<td>19</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>3</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>15</td>
+
+	<td>15</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>3</td>
+
+	<td>81</td>
+
+	<td>120</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>PR</td>
+
+	<td>Derek Llorca</td>
+
+	<td>M/AM (L), ST (C)</td>
+
+	<td>23</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>16</td>
+
+	<td>13</td>
+
+	<td>121</td>
+
+	<td>128</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Inj</td>
+
+	<td>Vianney</td>
+
+	<td>M/AM (C)</td>
+
+	<td>16</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>5</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>16</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>18</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>76</td>
+
+	<td>121</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Vianney Díez</td>
+
+	<td>M/AM (C)</td>
+
+	<td>23</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>11</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>5</td>
+
+	<td>4</td>
+
+	<td>15</td>
+
+	<td>3</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>102</td>
+
+	<td>127</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>PR</td>
+
+	<td>Diego Berenguer</td>
+
+	<td>M/AM (C), ST (C)</td>
+
+	<td>21</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>17</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>16</td>
+
+	<td>15</td>
+
+	<td>6</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>126</td>
+
+	<td>126</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Cristo Sales</td>
+
+	<td>AM (R)</td>
+
+	<td>16</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>8</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>5</td>
+
+	<td>58</td>
+
+	<td>93</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Yadel Bethencourt</td>
+
+	<td>AM (R), ST (C)</td>
+
+	<td>20</td>
+
+	<td>2</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>1</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>2</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>16</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>3</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>15</td>
+
+	<td>8</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>98</td>
+
+	<td>120</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Edey Arbelo</td>
+
+	<td>AM (R), ST (C)</td>
+
+	<td>23</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>15</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>16</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>104</td>
+
+	<td>117</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Toni Malón</td>
+
+	<td>AM (RL), ST (C)</td>
+
+	<td>24</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>5</td>
+
+	<td>4</td>
+
+	<td>2</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>1</td>
+
+	<td>16</td>
+
+	<td>16</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>4</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>15</td>
+
+	<td>4</td>
+
+	<td>13</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>15</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>121</td>
+
+	<td>134</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Ramon Vázquez</td>
+
+	<td>AM (L)</td>
+
+	<td>16</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>11</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>16</td>
+
+	<td>18</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>5</td>
+
+	<td>102</td>
+
+	<td>186</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Dino Bonomi</td>
+
+	<td>AM (LC), ST (C)</td>
+
+	<td>23</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>15</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>3</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>15</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>124</td>
+
+	<td>132</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>B</td>
+
+	<td>Zeben Tavío</td>
+
+	<td>AM (LC), ST (C)</td>
+
+	<td>17</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>1</td>
+
+	<td>5</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>2</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>3</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>103</td>
+
+	<td>151</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Yth</td>
+
+	<td>Garoé</td>
+
+	<td>AM (LC), ST (C)</td>
+
+	<td>17</td>
+
+	<td>3</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>14</td>
+
+	<td>11</td>
+
+	<td>2</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>66</td>
+
+	<td>105</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Raúl Escrich</td>
+
+	<td>AM (C)</td>
+
+	<td>16</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>7</td>
+
+	<td>4</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>17</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>20</td>
+
+	<td>16</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>6</td>
+
+	<td>16</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>16</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>93</td>
+
+	<td>166</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>PR</td>
+
+	<td>Joaquín Simó</td>
+
+	<td>AM (C), ST (C)</td>
+
+	<td>18</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>16</td>
+
+	<td>17</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>17</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>16</td>
+
+	<td>15</td>
+
+	<td>19</td>
+
+	<td>3</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>15</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>10</td>
+
+	<td>133</td>
+
+	<td>162</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Alfonso González</td>
+
+	<td>AM (C), ST (C)</td>
+
+	<td>16</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>17</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>13</td>
+
+	<td>3</td>
+
+	<td>6</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>2</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>77</td>
+
+	<td>138</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Inj</td>
+
+	<td>Iago Barbado</td>
+
+	<td>AM (C), ST (C)</td>
+
+	<td>16</td>
+
+	<td>6</td>
+
+	<td>5</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>3</td>
+
+	<td>4</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>3</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>2</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>12</td>
+
+	<td>20</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>6</td>
+
+	<td>96</td>
+
+	<td>176</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Unw</td>
+
+	<td>Enrique Dario</td>
+
+	<td>AM (C), ST (C)</td>
+
+	<td>19</td>
+
+	<td>4</td>
+
+	<td>4</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>9</td>
+
+	<td>5</td>
+
+	<td>3</td>
+
+	<td>15</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>6</td>
+
+	<td>8</td>
+
+	<td>4</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>10</td>
+
+	<td>5</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>10</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>57</td>
+
+	<td>87</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Cristo Déniz</td>
+
+	<td>AM (C), ST (C)</td>
+
+	<td>17</td>
+
+	<td>5</td>
+
+	<td>5</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>7</td>
+
+	<td>7</td>
+
+	<td>2</td>
+
+	<td>4</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>3</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>14</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>14</td>
+
+	<td>5</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>10</td>
+
+	<td>6</td>
+
+	<td>59</td>
+
+	<td>71</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Iván Perales</td>
+
+	<td>ST (C)</td>
+
+	<td>19</td>
+
+	<td>3</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>3</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>1</td>
+
+	<td>2</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>2</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>8</td>
+
+	<td>13</td>
+
+	<td>6</td>
+
+	<td>13</td>
+
+	<td>19</td>
+
+	<td>11</td>
+
+	<td>4</td>
+
+	<td>15</td>
+
+	<td>6</td>
+
+	<td>10</td>
+
+	<td>7</td>
+
+	<td>14</td>
+
+	<td>13</td>
+
+	<td>11</td>
+
+	<td>10</td>
+
+	<td>14</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>9</td>
+
+	<td>102</td>
+
+	<td>147</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td>Wnt</td>
+
+	<td>Javi Díez</td>
+
+	<td>ST (C)</td>
+
+	<td>21</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>11</td>
+
+	<td>14</td>
+
+	<td>8</td>
+
+	<td>11</td>
+
+	<td>6</td>
+
+	<td>7</td>
+
+	<td>4</td>
+
+	<td>3</td>
+
+	<td>8</td>
+
+	<td>5</td>
+
+	<td>7</td>
+
+	<td>13</td>
+
+	<td>17</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>9</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>13</td>
+
+	<td>8</td>
+
+	<td>12</td>
+
+	<td>3</td>
+
+	<td>16</td>
+
+	<td>10</td>
+
+	<td>12</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>13</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>6</td>
+
+	<td>86</td>
+
+	<td>118</td>
+
+</tr>
+<tr bgcolor="#EEEEEE">
+	<td></td>
+
+	<td>Saúl Miranda</td>
+
+	<td>ST (C)</td>
+
+	<td>16</td>
+
+	<td>8</td>
+
+	<td>10</td>
+
+	<td>11</td>
+
+	<td>15</td>
+
+	<td>11</td>
+
+	<td>9</td>
+
+	<td>8</td>
+
+	<td>6</td>
+
+	<td>4</td>
+
+	<td>6</td>
+
+	<td>15</td>
+
+	<td>7</td>
+
+	<td>2</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>8</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>9</td>
+
+	<td>17</td>
+
+	<td>11</td>
+
+	<td>1</td>
+
+	<td>14</td>
+
+	<td>5</td>
+
+	<td>9</td>
+
+	<td>6</td>
+
+	<td>14</td>
+
+	<td>12</td>
+
+	<td>11</td>
+
+	<td>12</td>
+
+	<td>7</td>
+
+	<td>12</td>
+
+	<td>15</td>
+
+	<td>14</td>
+
+	<td>7</td>
+
+	<td>95</td>
+
+	<td>166</td>
+
+</tr>
+</table>
+<p>
+<p align="center">
+<a HREF="https://www.sigames.com/">https://www.sigames.com/</a></p>
+</body>
+</html>
